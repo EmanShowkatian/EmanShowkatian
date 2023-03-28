@@ -12,9 +12,9 @@ This is the place where I break some eggs to make an omelette :rofl:
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/eman-showkatian-25a58b218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eman Showkatian" height="30" width="40" /></a>
-<a href="https://t.me/I_SHOWKATYAN" target="blank"><img align="center" src="https://www.svgrepo.com/show/125420/telegram.svg" alt="Eman Showkatian" height="30" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Eman-Showkatian" target="blank"><img align="center" src="https://www.l-cloud.eu/wp-content/uploads/2019/06/9f59698c-e156-4f33-9520-405cb7f4d9c6_researchgate_56f72ad6_490x330.png" alt="Eman Showkatian" height="30" width="40" /></a>
-  <br/>  <br/> 
+<!-- <a href="https://t.me/I_SHOWKATYAN" target="blank"><img align="center" src="https://www.svgrepo.com/show/125420/telegram.svg" alt="Eman Showkatian" height="30" width="40" /></a> -->
+<!-- <a href="https://www.researchgate.net/profile/Eman-Showkatian" target="blank"><img align="center" src="https://www.l-cloud.eu/wp-content/uploads/2019/06/9f59698c-e156-4f33-9520-405cb7f4d9c6_researchgate_56f72ad6_490x330.png" alt="Eman Showkatian" height="30" width="40" /></a>
+  <br/>  <br/>  -->
   
   
   
