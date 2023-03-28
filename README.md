@@ -4,7 +4,8 @@ This is the place where I break some eggs to make an omelette :rofl:
 - 🔭 &nbsp;I’m currently working on Deep Learning with Medical Applications :wink:
 - 🌱 &nbsp;I’m currently learning video object segmentation
 - 💬 &nbsp;Ask me about Python or Deep Learning, I will answer your questions to the best of my knowledge 
-- 📫 &nbsp;You can reach me by: [Telegram](https://t.me/I_SHOWKATYAN) or <a href="https://www.linkedin.com/in/eman-showkatian-25a58b218/">LinkedIn</a>
+<!-- - 📫 &nbsp;You can reach me by: [Telegram](https://t.me/I_SHOWKATYAN) or <a href="https://www.linkedin.com/in/eman-showkatian-25a58b218/">LinkedIn</a> -->
+- - 📫 &nbsp;You can reach me by: <a href="https://www.linkedin.com/in/eman-showkatian-25a58b218/">LinkedIn</a>
 - 👨‍💻 &nbsp;Read more about my projects at [ResearchGate](https://www.researchgate.net/profile/Eman-Showkatian)
 - ⚡ &nbsp;Fun fact: I love DC movies 🎦
 
